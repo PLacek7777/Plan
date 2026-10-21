@@ -1,3 +1,5 @@
-*.xlsx
+plan.xlsx
 *.log
+plan.html
+version.txt
 ./vnev
