@@ -1,6 +1,9 @@
 import pandas as pd
 import re
 from datetime import datetime
+import webscrape
+
+webscrape
 
 dLenght = 63
 hederLenght = 5

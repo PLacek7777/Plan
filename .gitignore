@@ -1,5 +1,6 @@
+__pycache__
 plan.xlsx
 *.log
 plan.html
 version.txt
-./vnev
+vnev
