@@ -17,7 +17,7 @@ def getXLSX(url):
     try:
         with open(version, 'r+') as f:
             check = f.read()
-            print(f"DEBUG >> checking {check} with {url}")
+            # print(f"DEBUG >> checking {check} with {url}")
             if check == url:
                 print("INFO >> No update \nINFO >> exiting")
                 return 0
